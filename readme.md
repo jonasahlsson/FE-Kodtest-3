@@ -44,7 +44,7 @@ git clone <länk till github>
 
 Gå till api-applikationen
 ```
-cd Mio.FrontendCodeTest/server
+cd <path>/server
 ```
 
 Installera dependencies
